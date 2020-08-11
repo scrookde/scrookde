@@ -1,6 +1,6 @@
-![picture](https://i.imgur.com/mmwTFOD.png)
+[a link]![picture](https://i.imgur.com/mmwTFOD.png)(https://eduralti.com)
 <h1> ABOUT ME </H1>
-<p>Hello, my name is Ediz Duralti.
+<p>Hello, my name is Ediz D..
 I am 16 years young and a passionate programmer. I started programming
 with C++ and Python but now I am focusing on Java!<br> Most of my projects are
 closed-source but in the near future I am going to
