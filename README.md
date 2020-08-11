@@ -1,4 +1,4 @@
-[a link]![picture](https://i.imgur.com/mmwTFOD.png)(https://eduralti.com)
+<img src="https://i.imgur.com/mmwTFOD.png" href="https://eduralti.com">
 <h1> ABOUT ME </H1>
 <p>Hello, my name is Ediz D..
 I am 16 years young and a passionate programmer. I started programming
