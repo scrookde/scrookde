@@ -1,5 +1,6 @@
 <a href="https://eduralti.com"><img src="https://i.imgur.com/mmwTFOD.png"></a>
 <h1> ABOUT ME </H1>
+<hr>
 <p>Hello, my name is Ediz D..
 I am 16 years young and a passionate programmer. I started programming
 with C++ and Python but now I am focusing on Java!<br> Most of my projects are
