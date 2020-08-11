@@ -1,5 +1,5 @@
 ![picture](https://i.imgur.com/mmwTFOD.png)
-<h1> ABOUT ME </H1>
+<h1 style="text-align: center;"> ABOUT ME </H1>
 
 
 <!--
